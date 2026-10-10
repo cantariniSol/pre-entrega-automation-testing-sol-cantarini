@@ -2,7 +2,7 @@ import pytest
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
-
+from selenium.webdriver.support.ui import WebDriverWait
 URL = "https://www.saucedemo.com/"
 
 
@@ -21,3 +21,7 @@ def driver_logueado(driver):
     driver.add_cookie({"name": "session-username", "value": "standard_user"})
     driver.get(URL + "inventory.html")
     return driver # se cierra al terminar cada test
+
+@pytest.fixture
+def wait(driver):
+    return WebDriverWait(driver, 10)

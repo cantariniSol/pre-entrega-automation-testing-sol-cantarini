@@ -22,4 +22,12 @@ ruff format .
 ruff check . --fix
 
 # 7.Comando para ejecutar test 
+source venv/Scripts/activate
 pytest tests -v
+pytest tests/test_login.py -s
+pytest tests/test_catalogo.py -s
+pytest tests/test_carrito.py -s
+pytest tests/test_compra.py -s
+
+# 8.Comando para ejecutar reporte
+pytest --html=reports/reporte.html --self-contained-html
