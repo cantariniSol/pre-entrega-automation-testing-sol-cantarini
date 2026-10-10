@@ -20,3 +20,6 @@ pip install -r requirements.txt
 pip install ruff
 ruff format .
 ruff check . --fix
+
+# 7.Comando para ejecutar test 
+pytest tests -v
