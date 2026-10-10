@@ -40,6 +40,9 @@ tests/     casos de prueba y fixtures (conftest.py)
 reports/   reporte HTML
 ```
 
+# Logs de ejecución: 
+logs/ejecucion.log
+
 ## Autora
 
 Sol Cantarini
