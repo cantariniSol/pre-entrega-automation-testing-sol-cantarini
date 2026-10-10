@@ -1,0 +1,39 @@
+# Entorno virtual
+venv/
+.venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# Pytest / cobertura
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Secretos (python-dotenv)
+.env
+.env.*
+!.env.example
+
+# Logs y evidencias generadas
+logs/*
+!logs/.gitkeep
+screenshot/*
+!screenshot/.gitkeep
+
+# Drivers descargados por webdriver-manager
+.wdm/
+chromedriver*
+*.log
+
+# IDE / sistema operativo
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
