@@ -1,0 +1,86 @@
+2026-10-10 18:31:17 [INFO] WDM: ====== WebDriver manager ======
+2026-10-10 18:31:19 [INFO] WDM: Driver [C:\Users\solca\.wdm\drivers\chromedriver\win64\154.0.8037.92\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-10-10 18:31:22 [INFO] pages.base_page: Clic en ('id', 'add-to-cart-sauce-labs-bike-light')
+2026-10-10 18:31:24 [INFO] pages.base_page: Clic en ('class name', 'shopping_cart_link')
+2026-10-10 18:31:26 [INFO] pages.base_page: Esperar URL que contenga: /cart.html
+2026-10-10 18:31:26 [INFO] pages.base_page: Esperar URL que contenga: /cart.html
+2026-10-10 18:31:26 [INFO] pages.base_page: Clic en ('id', 'remove-sauce-labs-bike-light')
+2026-10-10 18:31:28 [INFO] pages.base_page: Esperar URL que contenga: /cart.html
+2026-10-10 18:31:28 [INFO] pages.base_page: Clic en ('id', 'continue-shopping')
+2026-10-10 18:31:30 [INFO] pages.base_page: Esperar URL que contenga: /inventory.html
+2026-10-10 18:31:30 [INFO] pages.base_page: Clic en ('id', 'add-to-cart-sauce-labs-backpack')
+2026-10-10 18:31:32 [INFO] pages.base_page: Clic en ('id', 'add-to-cart-sauce-labs-bike-light')
+2026-10-10 18:31:34 [INFO] pages.base_page: Clic en ('class name', 'shopping_cart_link')
+2026-10-10 18:31:36 [INFO] pages.base_page: Esperar URL que contenga: /cart.html
+2026-10-10 18:31:36 [INFO] pages.base_page: Esperar URL que contenga: /cart.html
+2026-10-10 18:31:36 [INFO] pages.base_page: Clic en ('id', 'checkout')
+2026-10-10 18:31:38 [INFO] pages.base_page: Esperar URL que contenga: /checkout-step-one.html
+2026-10-10 18:31:39 [INFO] pages.base_page: Clic en ('id', 'cancel')
+2026-10-10 18:31:41 [INFO] pages.base_page: Esperar URL que contenga: /cart.html
+2026-10-10 18:31:41 [INFO] pages.base_page: Clic en ('id', 'continue-shopping')
+2026-10-10 18:31:43 [INFO] pages.base_page: Esperar URL que contenga: /inventory.html
+2026-10-10 18:31:43 [INFO] pages.base_page: Clic en ('id', 'add-to-cart-sauce-labs-fleece-jacket')
+2026-10-10 18:31:45 [INFO] pages.base_page: Clic en ('id', 'add-to-cart-sauce-labs-bolt-t-shirt')
+2026-10-10 18:31:47 [INFO] pages.base_page: Clic en ('class name', 'shopping_cart_link')
+2026-10-10 18:31:49 [INFO] pages.base_page: Esperar URL que contenga: /cart.html
+2026-10-10 18:31:49 [INFO] pages.base_page: Esperar URL que contenga: /cart.html
+2026-10-10 18:31:51 [INFO] WDM: ====== WebDriver manager ======
+2026-10-10 18:31:53 [INFO] WDM: Driver [C:\Users\solca\.wdm\drivers\chromedriver\win64\154.0.8037.92\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-10-10 18:31:55 [INFO] pages.base_page: Esperar URL que contenga: /inventory.html
+2026-10-10 18:31:55 [INFO] pages.base_page: Texto de ('class name', 'title'): Products
+2026-10-10 18:31:56 [INFO] pages.base_page: Clic en ('xpath', "//div[normalize-space()='Test.allTheThings() T-Shirt (Red)']")
+2026-10-10 18:31:58 [INFO] pages.base_page: Esperar URL que contenga: /inventory-item.html
+2026-10-10 18:31:58 [INFO] pages.base_page: Texto de ('class name', 'inventory_details_name'): Test.allTheThings() T-Shirt (Red)
+2026-10-10 18:31:58 [INFO] pages.base_page: Clic en ('id', 'back-to-products')
+2026-10-10 18:32:00 [INFO] pages.base_page: Esperar URL que contenga: /inventory.html
+2026-10-10 18:32:00 [INFO] pages.base_page: Clic en ('id', 'add-to-cart-sauce-labs-backpack')
+2026-10-10 18:32:02 [INFO] pages.base_page: Clic en ('xpath', "//div[normalize-space()='Sauce Labs Backpack']")
+2026-10-10 18:32:04 [INFO] pages.base_page: Esperar URL que contenga: /inventory-item.html
+2026-10-10 18:32:04 [INFO] pages.base_page: Texto de ('class name', 'inventory_details_name'): Sauce Labs Backpack
+2026-10-10 18:32:04 [INFO] pages.base_page: Clic en ('id', 'remove')
+2026-10-10 18:32:06 [INFO] pages.base_page: Clic en ('id', 'back-to-products')
+2026-10-10 18:32:08 [INFO] pages.base_page: Esperar URL que contenga: /inventory.html
+2026-10-10 18:32:08 [INFO] pages.base_page: Esperar URL que contenga: /inventory.html
+2026-10-10 18:32:09 [INFO] pages.base_page: Texto de ('class name', 'title'): Products
+2026-10-10 18:32:11 [INFO] WDM: ====== WebDriver manager ======
+2026-10-10 18:32:13 [INFO] WDM: Driver [C:\Users\solca\.wdm\drivers\chromedriver\win64\154.0.8037.92\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-10-10 18:32:15 [INFO] pages.base_page: Clic en ('xpath', "//div[normalize-space()='Sauce Labs Bike Light']")
+2026-10-10 18:32:17 [INFO] pages.base_page: Esperar URL que contenga: /inventory-item.html
+2026-10-10 18:32:17 [INFO] pages.base_page: Texto de ('class name', 'inventory_details_name'): Sauce Labs Bike Light
+2026-10-10 18:32:17 [INFO] pages.base_page: Clic en ('id', 'add-to-cart')
+2026-10-10 18:32:19 [INFO] pages.base_page: Clic en ('class name', 'shopping_cart_link')
+2026-10-10 18:32:21 [INFO] pages.base_page: Esperar URL que contenga: /cart.html
+2026-10-10 18:32:21 [INFO] pages.base_page: Esperar URL que contenga: /cart.html
+2026-10-10 18:32:22 [INFO] pages.base_page: Clic en ('id', 'checkout')
+2026-10-10 18:32:24 [INFO] pages.base_page: Esperar URL que contenga: /checkout-step-one.html
+2026-10-10 18:32:24 [INFO] pages.base_page: Escribir en ('id', 'first-name')
+2026-10-10 18:32:24 [INFO] pages.base_page: Escribir en ('id', 'last-name')
+2026-10-10 18:32:24 [INFO] pages.base_page: Escribir en ('id', 'postal-code')
+2026-10-10 18:32:24 [INFO] pages.base_page: Clic en ('id', 'continue')
+2026-10-10 18:32:26 [INFO] pages.base_page: Esperar URL que contenga: /checkout-step-two.html
+2026-10-10 18:32:26 [INFO] pages.base_page: Texto de ('class name', 'inventory_item_name'): Sauce Labs Bike Light
+2026-10-10 18:32:26 [INFO] pages.base_page: Clic en ('id', 'finish')
+2026-10-10 18:32:28 [INFO] pages.base_page: Esperar URL que contenga: /checkout-complete.html
+2026-10-10 18:32:28 [INFO] pages.base_page: Texto de ('class name', 'complete-header'): Thank you for your order!
+2026-10-10 18:32:31 [INFO] WDM: ====== WebDriver manager ======
+2026-10-10 18:32:32 [INFO] WDM: Driver [C:\Users\solca\.wdm\drivers\chromedriver\win64\154.0.8037.92\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-10-10 18:32:34 [INFO] pages.base_page: Abrir URL: https://www.saucedemo.com/
+2026-10-10 18:32:34 [INFO] pages.base_page: Escribir en ('id', 'user-name')
+2026-10-10 18:32:35 [INFO] pages.base_page: Escribir en ('id', 'password')
+2026-10-10 18:32:35 [INFO] pages.base_page: Clic en ('id', 'login-button')
+2026-10-10 18:32:37 [INFO] pages.base_page: Esperar URL que contenga: /inventory.html
+2026-10-10 18:32:37 [INFO] pages.base_page: Texto de ('class name', 'title'): Products
+2026-10-10 18:32:39 [INFO] WDM: ====== WebDriver manager ======
+2026-10-10 18:32:41 [INFO] WDM: Driver [C:\Users\solca\.wdm\drivers\chromedriver\win64\154.0.8037.92\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-10-10 18:32:43 [INFO] pages.base_page: Abrir URL: https://www.saucedemo.com/cart.html
+2026-10-10 18:32:43 [INFO] pages.base_page: Clic en ('id', 'react-burger-menu-btn')
+2026-10-10 18:32:45 [INFO] pages.base_page: Clic en ('id', 'logout_sidebar_link')
+2026-10-10 18:32:48 [INFO] pages.base_page: Escribir en ('id', 'user-name')
+2026-10-10 18:32:48 [INFO] pages.base_page: Escribir en ('id', 'password')
+2026-10-10 18:32:48 [INFO] pages.base_page: Clic en ('id', 'login-button')
+2026-10-10 18:32:50 [INFO] pages.base_page: Texto de ('css selector', "h3[data-test='error']"): Epic sadface: Username and password do not match any user in this service
+2026-10-10 18:32:50 [INFO] pages.base_page: Escribir en ('id', 'user-name')
+2026-10-10 18:32:50 [INFO] pages.base_page: Escribir en ('id', 'password')
+2026-10-10 18:32:51 [INFO] pages.base_page: Clic en ('id', 'login-button')
+2026-10-10 18:32:53 [INFO] pages.base_page: Esperar URL que contenga: /inventory.html
+2026-10-10 18:32:53 [INFO] pages.base_page: Texto de ('class name', 'title'): Products
